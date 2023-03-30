@@ -8,6 +8,15 @@
             "repeat_pass": "turner"
         }
     ],
+        "transactions": [
+        {
+            "id": 1,
+            "type": "income",
+            "category": "Salary",
+            "amount": 20000,
+            "date": "30-03-2023"
+        }
+    ],
     "hotels": [
         {
             "id": 1,
